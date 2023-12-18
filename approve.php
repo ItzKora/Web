@@ -62,7 +62,7 @@
 </head>
 <body>
     <h1>Auto Approve Bot</h1>
-    <form action="aablinkKar.php" method="post">
+    <form action="done.php" method="post">
         <label for="botToken">Bot Token:</label>
         <input type="text" name="botToken" required><br>
 
